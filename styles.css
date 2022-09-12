@@ -115,7 +115,7 @@ textarea {
     border-left: none;
     border-right: none;
     height: 40px;
-    transition: all 330ms ease-in-out;
+    transition: border-bottom 330ms ease-in-out;
 }
 
 input:hover,
