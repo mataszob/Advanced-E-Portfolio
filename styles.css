@@ -395,7 +395,11 @@ MODAL
     font-size: 40px;
     font-weight: 700;
     padding: 28px;
-    z-index: -2;
+    z-index: -1;
+}
+
+.modal__overlay--visible {
+    z-index: 1;
 }
 
 .modal__exit {
